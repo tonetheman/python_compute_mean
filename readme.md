@@ -1,4 +1,7 @@
-Look first at version 1 and 13
+compute the mean
+----------------
+
+Look first at simple_examples.py
 
 What is the difference?
 If I were writing this in C/C++ I would use version 13.
